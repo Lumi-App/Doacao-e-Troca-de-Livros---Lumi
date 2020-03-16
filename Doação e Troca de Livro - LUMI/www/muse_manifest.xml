@@ -1,0 +1,96 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="LUANAEMICHAEL.COM" resolutions="1x" timestamp="1584389496241">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="troca.css" crc="4126712779" ref="troca"/>
+    <file name="index.css" crc="322590311" ref="index"/>
+    <file name="cadastro.css" crc="3793005282" ref="cadastro"/>
+    <file name="doa__o.css" crc="3788192696" ref="doação"/>
+    <file name="doa__o-ou-troca.css" crc="4016958129" ref="doação-ou-troca"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:doação:troca:cadastro:doação-ou-troca"/>
+    <file name="museutils.js" crc="340535759" ref="index:doação:troca:cadastro:doação-ou-troca"/>
+    <file name="whatinput.js" crc="86476730" ref="index:doação:troca:cadastro:doação-ou-troca"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:doação:troca:cadastro:doação-ou-troca"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:cadastro:doação-ou-troca"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:doação:troca:cadastro:doação-ou-troca"/>
+    <file name="require.js" crc="7928878" ref="index:doação:troca:cadastro:doação-ou-troca"/>
+    <file name="webpro.js" crc="4059564322" ref="cadastro"/>
+    <file name="form_check.php" crc="4020933626" ref="cadastro"/>
+    <file name="form_throttle.php" crc="4259590256" ref="cadastro"/>
+    <file name="form_process.php" crc="37464564" ref="cadastro"/>
+    <file name="form-u960.php" crc="3768657484" ref="cadastro"/>
+  </folder>
+  <folder name="images">
+    <file name="u603-6.png" crc="3931735858" ref="index"/>
+    <file name="6-livros-que-prometem-despertar-sua-criatividade-1024x1024-1-crop-u1821.jpg" crc="231735179" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u676-6.png" crc="504369012" ref="index"/>
+    <file name="9076-crop-u695.jpg" crc="3839680694" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="498288-phf02n-60750x1124.jpg" crc="3791049412" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1714-4.png" crc="4030720702" ref="doação"/>
+    <file name="7-crop-u1717.jpg" crc="318115068" seo="true" ref="doação">
+      <caption webpage="doação" alt=""/>
+    </file>
+    <file name="8-crop-u1726.jpg" crc="4160214199" seo="true" ref="doação">
+      <caption webpage="doação" alt=""/>
+    </file>
+    <file name="10-crop-u1720.jpg" crc="169288825" seo="true" ref="doação">
+      <caption webpage="doação" alt=""/>
+    </file>
+    <file name="111-crop-u1729.jpg" crc="4262351849" seo="true" ref="doação">
+      <caption webpage="doação" alt=""/>
+    </file>
+    <file name="12-crop-u1732.jpg" crc="458803253" seo="true" ref="doação">
+      <caption webpage="doação" alt=""/>
+    </file>
+    <file name="15-crop-u1735.jpg" crc="201785549" seo="true" ref="doação">
+      <caption webpage="doação" alt=""/>
+    </file>
+    <file name="u1651-4.png" crc="387983674" ref="troca"/>
+    <file name="1,3-crop-u1633.jpg" crc="343865371" seo="true" ref="troca">
+      <caption webpage="troca" alt=""/>
+    </file>
+    <file name="2-crop-u1636.jpg" crc="30269088" seo="true" ref="troca">
+      <caption webpage="troca" alt=""/>
+    </file>
+    <file name="3-crop-u1639.jpg" crc="4191911493" seo="true" ref="troca">
+      <caption webpage="troca" alt=""/>
+    </file>
+    <file name="4-crop-u1642.jpg" crc="3870612714" seo="true" ref="troca">
+      <caption webpage="troca" alt=""/>
+    </file>
+    <file name="5-crop-u1645.jpg" crc="518668892" seo="true" ref="troca">
+      <caption webpage="troca" alt=""/>
+    </file>
+    <file name="6-crop-u1648.jpg" crc="3796014134" seo="true" ref="troca">
+      <caption webpage="troca" alt=""/>
+    </file>
+    <file name="9076-crop-u1193.jpg" crc="3839680694" seo="true" ref="cadastro">
+      <caption webpage="cadastro" alt=""/>
+    </file>
+    <file name="2470390750x500.jpg" crc="465452522" ref="cadastro">
+      <caption webpage="cadastro" alt=""/>
+    </file>
+    <file name="u1609-6.png" crc="3931735858" ref="doação-ou-troca"/>
+    <file name="6-livros-que-prometem-despertar-sua-criatividade-1024x1024-1-crop-u1834.jpg" crc="489965705" seo="true" ref="doação-ou-troca">
+      <caption webpage="doação-ou-troca" alt=""/>
+    </file>
+    <file name="u1613-6.png" crc="504369012" ref="doação-ou-troca"/>
+    <file name="u1625-4.png" crc="79069324" ref="doação-ou-troca"/>
+    <file name="u1630-4.png" crc="248355876" ref="doação-ou-troca"/>
+    <file name="9076-crop-u1614.jpg" crc="3839680694" seo="true" ref="doação-ou-troca">
+      <caption webpage="doação-ou-troca" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="91695770" seo="true" mt="1584388899363" redirect="true"/>
+  <file name="doação.html" crc="366157868" seo="true" mt="1582316816384" redirect="true"/>
+  <file name="troca.html" crc="223475613" seo="true" mt="1582315818004" redirect="true"/>
+  <file name="cadastro.html" crc="427625769" seo="true" mt="1582314351897" redirect="true"/>
+  <file name="doação-ou-troca.html" crc="3926869893" seo="true" mt="1584388956153" redirect="true"/>
+</manifest>
